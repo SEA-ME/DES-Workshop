@@ -1,2 +1,2 @@
-# DES-Workshop-MS-Munich
-Distributed Embedded Systems Workshop at Microsoft Munich
+# DES-Workshop
+Distributed Embedded Systems Workshop at SEA:ME Hackathon
